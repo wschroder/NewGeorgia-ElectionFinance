@@ -1,4 +1,5 @@
 # Summary
+This page lists resources available for the project; some in use, some just proposed.
 
 ## .NET Resources
 - [DCSoup](https://www.nuget.org/packages/dcsoup/) -.NET library for working with real-world HTML. It provides a very convenient API for extracting and manipulating data, using the best of DOM, CSS, and jquery-like methods.
