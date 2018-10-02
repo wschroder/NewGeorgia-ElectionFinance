@@ -1,6 +1,6 @@
 # New Georgia-Political Finance API Project
 
-# Project Overview
+## Project Overview
 
 Sponsor: [New Georgia Project](https://newgeorgiaproject.org/)
 
@@ -21,16 +21,14 @@ Project status: Research & investigation
 **Project Summary**
 The purpose of this project is to collect data from public, Georgia goverment webistes, and present the data in a more useful and helpful manner as an API, with eventual goal of providing input for end-user apps that can easily let non-technical people have clear access to the publicly reported funding sources for Georgia politicians.
 
-# Goals
+## Goals
 
-# Technology
+## Technology
 TBD
 
-# Short Term Needs
+## Short Term Needs
 
-# Project Roadmap
+## Project Roadmap
 TBD
 
 [fini]
-
-
