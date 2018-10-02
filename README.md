@@ -23,6 +23,8 @@ The purpose of this project is to collect data from public, Georgia goverment we
 
 **Interested in joining us?**  [Participant signup sheet](https://1drv.ms/x/s!AtPeYaX7I7aauFHgUwXqmtJD1-qE)   *(No commitment required.)*
 
+**Need access?** Contact Wayne Schroder at GratefulBayou@gmail.com, or message me on the slack channel.
+
 ## Goals
 
 ## Technology
