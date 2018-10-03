@@ -28,6 +28,11 @@ This project will be obtaining data from publicly available data sources, in a m
 
 **Interested in joining us?**  [Participant signup sheet](https://1drv.ms/x/s!AtPeYaX7I7aauFHgUwXqmtJD1-qE)   *(No commitment required.)*
 
+Note to participants: If you'd like to recommend a special tool or technology, please read over the project description first to get a good understanding of what we're trying to do, then write up a summary page with the following info and post it on our Slack channel:
+1. Description of the tool/technology.  And it's cost (Very important, since we're currently a $0 budget project).
+1. Explain pros & cons of using it.
+1. Explain which problem in this project it would solve.  Note: If you expand the scope of the project to answer this question, you're cheating. :)
+
 **Need access?** Contact Wayne Schroder at GratefulBayou@gmail.com, or message me on the slack channel.
 
 ## Goals
@@ -35,8 +40,28 @@ This project will be obtaining data from publicly available data sources, in a m
 ## Technology
 TBD
 
-## Short Term Needs
+## Data Sources
 
+**Georgia Government Transparencyand Campaign Finance Commission (http://media.ethics.ga.gov)**
+To see campaign reports:
+   1. Go to the [Georgia Campaign reports page](http://media.ethics.ga.gov/Search/Campaign/Campaign_ByName.aspx)
+   1. Go to Search Campaign > Search by Office Type
+   1. Set "Election Year" to the current year
+   1. Select a value for "Office Type" and "Office Name"
+   1. Click on [Search for Filer]
+   1. When presented with list of candidates, click on "View' for one
+   1. Click on "Campaign Contribution Reports - EFiled"
+   1. Click on "View Report"
+   1. Click on "View Contributions"
+   1. Click on "Click here to export the result to Excel"
+
+## Short Term Needs
+1. Analyze and document candidate funding data from media.ethics.ga.gov.  Metadata needed:
+   - Dataset name
+   - Field name
+   - Field type & length
+   - Special values
+   
 ## Project Roadmap
 TBD
 
