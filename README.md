@@ -1,4 +1,4 @@
-# New Georgia-Political Finance API Project
+# New Georgia-Election Money - API Project
 
 ## Project Overview
 
